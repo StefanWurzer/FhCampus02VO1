@@ -9,6 +9,7 @@ public class HelloWorld {
         System.out.println("Zeile 3");
         System.out.println("Zeile 4");
         System.out.println("Zeile 5");
+        System.out.println("Zeile 6");
         //Steuerung D um eine Zeile zu duplizieren
     }
 }
