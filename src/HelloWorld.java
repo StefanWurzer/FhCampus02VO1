@@ -8,6 +8,7 @@ public class HelloWorld {
         //mit Abkürzungen können hier einfach Begriffe eingefügt werden
         System.out.println("Zeile 3");
         System.out.println("Zeile 4");
+        System.out.println("Zeile 5");
         //Steuerung D um eine Zeile zu duplizieren
     }
 }
